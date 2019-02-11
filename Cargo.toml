@@ -17,6 +17,6 @@ appveyor = { repository = "saschagrunert/peel", branch = "master", service = "gi
 
 [dependencies]
 petgraph = "0"
-log = "0"
+log = "0.3.4"
 mowl = "1"
 nom = {version = "3", features = ["verbose-errors"]}
